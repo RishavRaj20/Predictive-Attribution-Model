@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Attribution AI",
+  "description": "A predictive marketing attribution and budget optimization dashboard using Gemini 2.5 Flash to analyze spend efficiency and diminishing returns.",
+  "requestFramePermissions": []
+}
